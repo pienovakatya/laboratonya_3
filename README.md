@@ -2,7 +2,7 @@
 <h2 align="center">Реалізація перетворень між системами координат</h2>
 
 <div align="center">
-  <a href="https://codepen.io/pienovakatya/full/xbKVMOv target="_blank">
+  <a href="https://codepen.io/pienovakatya/full/xbKVMOv" target="_blank">
     <img style="width: 300%; height: 300%;" src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Open in CodePen"/>
   </a>
 </div>
