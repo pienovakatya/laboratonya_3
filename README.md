@@ -2,8 +2,8 @@
 <h2 align="center">Реалізація перетворень між системами координат</h2>
 
 <div align="center">
-  <a href="https://codepen.io/pienovakatsya/pen/xyz" target="_blank">
-    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Open in CodePen"/>
+  <a href="https://codepen.io/pienovakatya/full/xbKVMOv target="_blank">
+    <img style="width: 300%; height: 300%;" src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Open in CodePen"/>
   </a>
 </div>
 
@@ -19,7 +19,7 @@
 Розроблений веб-додаток надає користувачу три основні функціональні блоки для роботи з координатами.
 
 <p align="center">
-  <img src="Screenshots/1.jpeg" alt="1"/>
+  <img src="Screenshots/1.jpg" alt="1"/>
 </p>
 <p align="center">Головний екран програми з трьома функціональними блоками: перетворення координат, розрахунок відстаней та тестування продуктивності</p>
 
@@ -27,7 +27,7 @@
 Система автоматично виконує перетворення введених координат між різними системами, забезпечуючи точність обчислень та зручність використання.
 
 <p align="center">
-  <img src="Screenshots/2.jpeg" alt="2"/>
+  <img src="Screenshots/2.jpg" alt="2"/>
 </p>
 <p align="center">Демонстрація результатів перетворення координат між полярною та декартовою системами</p>
 
@@ -35,7 +35,7 @@
 Програма пропонує різні методи обчислення відстаней, враховуючи особливості кожної системи координат.
 
 <p align="center">
-  <img src="Screenshots/3.jpeg" alt="3"/>
+  <img src="Screenshots/3.jpg" alt="3"/>
 </p>
 <p align="center">Візуалізація результатів обчислення відстаней різними методами для заданих точок</p>
 
@@ -43,7 +43,7 @@
 Проведено комплексне тестування продуктивності на значній вибірці даних для оцінки ефективності різних методів обчислення.
 
 <p align="center">
-  <img src="Screenshots/4.jpeg" alt="4"/>
+  <img src="Screenshots/4.jpg" alt="4"/>
 </p>
 <p align="center">Результати бенчмаркінгу різних методів обчислення на 50,000 ітераціях</p>
 
